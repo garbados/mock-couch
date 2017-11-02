@@ -13,6 +13,8 @@ Mock Couch emit events, so you can listen to them to see the result of your test
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/garbados/mock-couch.svg)](https://greenkeeper.io/)
+
 ```
 npm install --save-dev mock-couch
 ```
